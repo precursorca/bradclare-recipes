@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
-		<string>https://d1ajlxshccx4yr.cloudfront.net/EtreCheckPro.zip</string>
+		<string>https://cdn.etrecheck.com/EtreCheckPro.zip</string>
 		<key>NAME</key>
 		<string>EtreCheck</string>
 	</dict>
